@@ -1,0 +1,14 @@
+{
+  "name": "llzj",
+  "version": "1.0.0",
+  "description": "misc tools to datamine 鈴蘭之劍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Phung",
+  "license": "ISC",
+  "dependencies": {
+    "utf8": "^3.0.0"
+  }
+}

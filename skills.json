@@ -1,0 +1,194 @@
+{
+  "knee-bash": {
+    "name": {
+      "en": "Knee Bash",
+      "ch-tr": "腿部猛擊",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Physical Damage) Deals 120% damage, knock back 2 spaces and inflicting [Move Down 1] for 1 turn.",
+      "ch-tr": "（物理傷害）造成120%傷害，擊退2格，對目標施加[▼移動1]，持續1回合。",
+      "ch-sm": ""
+    },
+    "energy": 2,
+    "cooldown": 2
+  },
+  "defend": {
+    "name": {
+      "en": "Defend",
+      "ch-tr": "守望",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Passive). Take [Physical Attacks] for allies within 2 spaces. When activated increase defense by 20% at most 1 time per turn.",
+      "ch-tr": "（被動）替自身範圍2格內所有友軍承受[物理攻擊]。發動時，防禦提高20%，每回合最多生效1次。",
+      "ch-sm": ""
+    }
+  },
+  "coordinated-defense": {
+    "name": {
+      "en": "Coordinated Defense",
+      "ch-tr": "協防",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Passive) Gain 10% defense for each ally within 2 spaces, max 40%.",
+      "ch-tr": "（被動）自身範圍2格每存在1個友軍，防禦提高10%，最多40%。",
+      "ch-sm": ""
+    }
+  },
+  "cheer": {
+    "name": {
+      "en": "Cheer",
+      "ch-tr": "大家加油哦！",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Support) Heal allies within 3 spaces, restoring 20% health and gaining [Attack Up 1], [Defense Up 1]. Take [Physical Attacks] for allies within 2 spaces for 2 turns.",
+      "ch-tr": "（支援）治療範圍3格內所有己方，回復20%生命值，獲得[▲攻擊1]、[▲物防1]增益，物防提高20%。替自身範圍2格內所有友軍承受[物理攻擊]，持續2回合。",
+      "ch-sm": ""
+    },
+    "energy": 3,
+    "cooldown": 0
+  },
+  "maithas-charge": {
+    "name": {
+      "en": "Maitha's Charge",
+      "ch-tr": "麥莎衝鋒",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Physical Damage) Select 1 enemy within your cross, charge to the their side and deal 130% damage, knock back 2 spaces.",
+      "ch-tr": "（物理傷害）選擇自身十字範圍內1名敵人，衝鋒到其身邊並造成130%傷害，擊退2格。",
+      "ch-sm": ""
+    },
+    "energy": 1,
+    "cooldown": 5
+  },
+  "activate-endurance": {
+    "name": {
+      "en": "Activate Endurance",
+      "ch-tr": "激活耐力",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Reaction) When receiving a heal, gain [Damage Prevention 2] for 2 turns.",
+      "ch-tr": "（反應）受到治療後獲得[免傷2]，持續2回合。",
+      "ch-sm": ""
+    }
+  },
+  "blocking-counter": {
+    "name": {
+      "en": "Blocking Counter",
+      "ch-tr": "格擋反擊",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Reaction) When attacked by [Front or Side] in melee, 100% chance to activate [Block] then counterattack, dealing 70% physical damage to the opponent once per turn.",
+      "ch-tr": "（反應）被[正、側方]近戰攻擊時，100%概率觸發[格擋]，觸發後反擊，造成對方70%物理傷害，每回合最多生效1次。",
+      "ch-sm": ""
+    }
+  },
+  "convallaria-battle-standard": {
+    "name": {
+      "en": "Convallaria Battle Standard",
+      "ch-tr": "鈴蘭戰旗",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Aura) Increase attack by 10% and defense by 20% for all allies from the “Sword of Convallaria” faction.",
+      "ch-tr": "（光環）場上所有陣營為〈鈴蘭之劍〉的己方，攻擊提高10%，防禦提高20%。",
+      "ch-sm": ""
+    }
+  },
+  "bandage": {
+    "name": {
+      "en": "Bandage",
+      "ch-tr": "繃帶",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Heal) [Instant], Single-target heal, restoring 30% of the target’s health.",
+      "ch-tr": "（治療）[瞬發]，單體治療，回復目標30%生命值。",
+      "ch-sm": ""
+    },
+    "energy": 0,
+    "cooldown": 3
+  },
+  "armor-break": {
+    "name": {
+      "en": "Armor Break",
+      "ch-tr": "破甲擊",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Basic Attack) Deals 100% Physical Damage inflicting [Defense Down 1], [Magic Defense Down 1] to the target for 2 turns.",
+      "ch-tr": "（普攻）造成100%物理傷害，對目標對敵人造成[▼物防1][▼魔防1]，持續2回合。",
+      "ch-sm": ""
+    }
+  },
+  "power-strike": {
+    "name": {
+      "en": "Power Strike",
+      "ch-tr": "強力擊",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Basic Attack) Deals 110% Physical Damage.",
+      "ch-tr": "（普攻）造成110%物理傷害。",
+      "ch-sm": ""
+    }
+  },
+  "maithas-combo": {
+    "name": {
+      "en": "Maitha's Combo",
+      "ch-tr": "麥莎連擊",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "",
+      "ch-tr": "（物理傷害）造成1次20%的傷害，3次50%的傷害，擊退2格。",
+      "ch-sm": ""
+    },
+    "energy": 2,
+    "cooldown": 4
+  },
+  "invulnerability": {
+    "name": {
+      "en": "Invulnerability",
+      "ch-tr": "無懈可擊",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "(Support) Gain [Damage Prevention 4], [Mind’s Eye], and [x Interference] for 3 turns",
+      "ch-tr": "（支援）獲得[免傷4]增益，受到傷害降低40%。[心眼]和[×干擾]，持續3回合。",
+      "ch-sm": ""
+    },
+    "energy": 1,
+    "cooldown": 5
+  },
+  "slash": {
+    "name": {
+      "en": "Slash",
+      "ch-tr": "斬擊",
+      "ch-sm": "斩击"
+    },
+    "description": {
+      "en": "(Basic Attack) Deals 100% Physical Damage.",
+      "ch-tr": "（普攻）造成100%物理傷害。",
+      "ch-sm": "（普攻）造成100%物理伤害。"
+    }
+  },
+  "": {
+    "name": {
+      "en": "",
+      "ch-tr": "",
+      "ch-sm": ""
+    },
+    "description": {
+      "en": "",
+      "ch-tr": "",
+      "ch-sm": ""
+    }
+  }
+}

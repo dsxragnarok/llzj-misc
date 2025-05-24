@@ -1,0 +1,74 @@
+{
+  "equipment": {
+    "sword": {
+      "en": "Sword",
+      "ch-tr": "劍",
+      "ch-sm": "剑"
+    }
+  },
+  "factions": {
+    "convallaria": {
+      "en": "Sword of Convallaria",
+      "ch-tr": "鈴蘭之劍",
+      "ch-sm": "铃兰之剑"
+    },
+    "ilya": {
+      "en": "Ilya",
+      "ch-tr": "伊利亞",
+      "ch-sm": "伊利亚"
+    }
+  },
+  "rarity": {
+    "ssr": {
+      "abbr": "SSR",
+      "en": "Legendary",
+      "ch-tr": "傳說",
+      "ch-sm": "传说"
+    },
+    "sr": {
+      "abbr": "SR",
+      "en": "Epic",
+      "ch-tr": "史詩",
+      "ch-sm": "史诗"
+    },
+    "r": {
+      "abbr": "R",
+      "en": "Rare",
+      "ch-tr": "菁英",
+      "ch-sm": "菁英"
+    },
+    "c": {
+      "abbr": "C",
+      "en": "Common",
+      "ch-tr": "普通",
+      "ch-sm": "普通"
+    }
+  },
+  "job-type": {
+    "defender": {
+      "en": "Defender",
+      "ch-tr": "防禦者",
+      "ch-sm": "防御者"
+    },
+    "crusher": {
+      "en": "Crusher",
+      "ch-tr": "粉碎者",
+      "ch-sm": "粉碎者"
+    },
+    "watcher": {
+      "en": "Watcher",
+      "ch-tr": "守望者",
+      "ch-sm": "守望者"
+    },
+    "raider": {
+      "en": "Raider",
+      "ch-tr": "突襲者",
+      "ch-sm": "突袭者"
+    },
+    "destroyer": {
+      "en": "Destroyer",
+      "ch-tr": "毀滅者",
+      "ch-sm": "毁灭者"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "maitha": {
+    "name": {
+      "en": "Maitha",
+      "ch-tr": "麥莎",
+      "ch-sm": "麥莎"
+    },
+    "info": {
+      "factions": ["convallaria", "ilya"],
+      "job-type": "defender",
+      "job": {
+        "en": "Mercenary Girl",
+        "ch-tr": "傭兵少女",
+        "ch-sm": "佣兵少女"
+      },
+      "rarity": "ssr",
+      "weapon": "sword"
+    },
+    "description": {
+      "en": "",
+      "ch-tr": "善良活潑樂觀堅強的少女傭兵，鈴蘭之劍傭兵團的初期人員，也是主角最初的夥伴和重要的支持者。\n\n作為戰爭孤兒的少女曾四處流浪，直到被拉維耶收養定居小鎮才有了自己的家。\n悲慘的童年並未抹去少女燦爛的笑容，樂觀、堅強、對所有人都報以善意和信任的少女很快贏得了所有人的喜愛。\n為了保護大家，少女自願拿起武器，加入了拉維耶建立的傭兵團。\n\n少女堅信，只要不放棄希望，一切總會好起來的。",
+      "ch-sm": "善良活泼乐观坚强的少女佣兵，铃兰之剑佣兵团的初期人员，也是主角最初的伙伴和重要的支持者。\n\n作为战争孤儿的少女曾四处流浪，直到被拉维耶收养定居小镇才有了自己的家。\n悲惨的童年并未抹去少女灿烂的笑容，乐观、坚强、对所有人都报以善意和信任的少女很快赢得了所有人的喜爱。\n为了保护大家，少女自愿拿起武器，加入了拉维耶建立的佣兵团。\n\n少女坚信，只要不放弃希望，一切总会好起来的。"
+    },
+    "talent": "shield-of-convallaria",
+    "skills": {
+      "basic": "slash",
+      "starting": "knee-bash",
+      "progression": {
+        "left": {
+          "name": {
+            "en": "defense",
+            "ch-tr": "守護",
+            "ch-sm": "守护"
+          },
+          "skills": ["defend","cheer","activate-endurance","convallaria-battle-standard","armor-break","maithas-combo"]
+        },
+        "right": {
+          "name": {
+            "en": "survival",
+            "ch-tr": "生存",
+            "ch-sm": "生存"
+          }
+        },
+        "skills": ["coordinated-defense","maithas-charge","blocking-counter","bandage","power-strike","invulnerability"]
+      }
+    }
+  }
+}

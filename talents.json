@@ -1,0 +1,30 @@
+{
+  "shield-of-convallaria": {
+    "name": {
+      "en": "Shield of Convallaria",
+      "ch-tr": "鈴蘭之盾",
+      "ch-sm": "铃兰之盾"
+    },
+    "effect": [{
+      "en": "With [Block], reduce incoming damage by 8%. At the end of turn, heal 1 ally with the lowest health restoring 20% of their lost health.",
+      "ch-tr": "擁有[格擋]，受到傷害降低8%。行動結束時，治療場上生命值最低的1名己方的生命值，回復20%已損失生命值。",
+      "ch-sm": "拥有[格挡]，受到伤害降低8%。行动结束时，治疗场上生命值最低的1名己方的生命值，回复20%已损失生命值。"
+    }, {
+      "en": "With [Block], reduce incoming damage by 12%. At the end of turn, heal 1 ally with the lowest health restoring 20% of their lost health.",
+      "ch-tr": "擁有[格擋]，受到傷害降低12%。行動結束時，治療場上生命值最低的1名己方的生命值，回復20%已損失生命值。",
+      "ch-sm": "拥有[格挡]，受到伤害降低12%。行动结束时，治疗场上生命值最低的1名己方的生命值，回复20%已损失生命值。"
+    }, {
+      "en": "With [Block], reduce incoming damage by 15%. At the end of turn, heal 1 ally with the lowest health restoring 20% of their lost health.",
+      "ch-tr": "擁有[格擋]，受到傷害降低15%。行動結束時，治療場上生命值最低的1名己方的生命值，回復20%已損失生命值。",
+      "ch-sm": "拥有[格挡]，受到伤害降低15%。行动结束时，治疗场上生命值最低的1名己方的生命值，回复20%已损失生命值。"
+    }, {
+      "en": "With [Block], reduce incoming damage by 15%. At the end of turn, heal 2 ally with the lowest health restoring 20% of their lost health.",
+      "ch-tr": "擁有[格擋]，受到傷害降低15%。行動結束時，治療場上生命值最低的2名己方的生命值，回復20%已損失生命值。",
+      "ch-sm": "拥有[格挡]，受到伤害降低15%。行动结束时，治疗场上生命值最低的2名己方的生命值，回复20%已损失生命值。"
+    }, {
+      "en": "With [Block], reduce incoming damage by 20%. At the end of turn, heal 2 ally with the lowest health restoring 20% of their lost health.",
+      "ch-tr": "擁有[格擋]，受到傷害降低20%。行動結束時，治療場上生命值最低的2名己方的生命值，回復20%已損失生命值。",
+      "ch-sm": "拥有[格挡]，受到伤害降低20%。行动结束时，治疗场上生命值最低的2名己方的生命值，回复20%已损失生命值。"
+    }]
+  }
+}
